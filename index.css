@@ -1,1 +1,49 @@
-
+.color1 { 
+  color: black;
+  font-size:26px;
+  text-align:left
+}
+.color2 {
+  color: black;
+  font-size: 22px;
+  text-align: left;
+}
+.title1 {
+  font-size:25px;
+  font-weight: bolder;
+}
+.button1:hover {
+  opacity: 0.8;
+  font-family: georgia, serif;
+}
+.bigtext {
+  text-align: center;
+  background-color: #ffffff;
+  font-size:29px;
+  width: 450px;
+  height: 200px;
+}
+.button: hover { 
+  border: colapse;
+  height: 60px;
+  text-align: center;
+  font-size: 45px;
+  width: 450px;
+  font-family: georgia, serif;
+  opacity: 1;
+  color: #f5f5dc;
+}
+.image1 {
+  text-align: right;
+  font-weight: bold;
+}
+body {
+  background-color: #bead9d;
+  font-size: 22px;
+}
+.b {
+  font-size: 32px;
+}
+.image2 {
+  text-align: center;
+}
